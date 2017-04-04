@@ -1,8 +1,9 @@
 {
-    "name": "genesis",
+    "name": "salonmercedes",
     "version": "0.0.0",
     "private": true,
     "scripts": {
+        "start": "node server.js"
         
     },
     "dependencies": {
